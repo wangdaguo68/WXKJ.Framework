@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\test\\WXKJ.WebApi\\WXKJ.Framework\\WXKJ.Framework.csproj": {}
+  },
+  "projects": {
+    "D:\\test\\WXKJ.WebApi\\WXKJ.Framework\\WXKJ.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\test\\WXKJ.WebApi\\WXKJ.Framework\\WXKJ.Framework.csproj",
+        "projectName": "WXKJ.Framework",
+        "projectPath": "D:\\test\\WXKJ.WebApi\\WXKJ.Framework\\WXKJ.Framework.csproj",
+        "packagesPath": "C:\\Users\\0\\.nuget\\packages\\",
+        "outputPath": "D:\\test\\WXKJ.WebApi\\WXKJ.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AspectCore.Extensions.AspectScope": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "AspectCore.Extensions.Autofac": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "AspectCore.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "EasyCaching.HybridCache": {
+              "target": "Package",
+              "version": "[0.5.4.1, )"
+            },
+            "EasyCaching.InMemory": {
+              "target": "Package",
+              "version": "[0.5.4.1, )"
+            },
+            "EasyCaching.Memcached": {
+              "target": "Package",
+              "version": "[0.5.4.1, )"
+            },
+            "EasyCaching.Redis": {
+              "target": "Package",
+              "version": "[0.5.4.1, )"
+            },
+            "Exceptionless": {
+              "target": "Package",
+              "version": "[4.3.2027, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[7.6.103, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[3.10.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.15, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

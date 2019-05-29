@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WXKJ.Framework</id>
+    <version>1.0.0</version>
+    <authors>King</authors>
+    <owners>King</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.net core平台下的应用框架，常用公共操作类(工具类)</description>
+    <copyright>CopyRight@2019</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="AspectCore.Extensions.AspectScope" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="AspectCore.Extensions.Autofac" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="AspectCore.Extensions.DependencyInjection" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="7.0.1" exclude="Build,Analyzers" />
+        <dependency id="Autofac.Extensions.DependencyInjection" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="EasyCaching.HybridCache" version="0.5.4.1" exclude="Build,Analyzers" />
+        <dependency id="EasyCaching.InMemory" version="0.5.4.1" exclude="Build,Analyzers" />
+        <dependency id="EasyCaching.Memcached" version="0.5.4.1" exclude="Build,Analyzers" />
+        <dependency id="EasyCaching.Redis" version="0.5.4.1" exclude="Build,Analyzers" />
+        <dependency id="Exceptionless" version="4.3.2027" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation.AspNetCore" version="7.6.103" exclude="Build,Analyzers" />
+        <dependency id="IdentityModel" version="3.10.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="2.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="2.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="2.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.FileExtensions" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.PlatformAbstractions" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="NLog" version="4.6.3" exclude="Build,Analyzers" />
+        <dependency id="NLog.Web.AspNetCore" version="4.8.2" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="2.1.2" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="2.5.0" exclude="Build,Analyzers" />
+        <dependency id="System.Linq.Dynamic.Core" version="1.0.15" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Claims" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="4.5.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\test\WXKJ.WebApi\WXKJ.Framework\bin\Debug\netstandard2.0\WXKJ.Framework.dll" target="lib\netstandard2.0\WXKJ.Framework.dll" />
+  </files>
+</package>

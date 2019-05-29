@@ -1,0 +1,14 @@
+D:\test\WXKJ.WebApi\WXKJ.WebApi\bin\Debug\netcoreapp2.1\WXKJ.WebApi.deps.json
+D:\test\WXKJ.WebApi\WXKJ.WebApi\bin\Debug\netcoreapp2.1\WXKJ.WebApi.runtimeconfig.json
+D:\test\WXKJ.WebApi\WXKJ.WebApi\bin\Debug\netcoreapp2.1\WXKJ.WebApi.runtimeconfig.dev.json
+D:\test\WXKJ.WebApi\WXKJ.WebApi\bin\Debug\netcoreapp2.1\WXKJ.WebApi.dll
+D:\test\WXKJ.WebApi\WXKJ.WebApi\bin\Debug\netcoreapp2.1\WXKJ.WebApi.pdb
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.csproj.CoreCompileInputs.cache
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.RazorAssemblyInfo.cache
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.RazorAssemblyInfo.cs
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.AssemblyInfoInputs.cache
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.AssemblyInfo.cs
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.RazorTargetAssemblyInfo.cache
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.dll
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.pdb
+D:\test\WXKJ.WebApi\WXKJ.WebApi\obj\Debug\netcoreapp2.1\WXKJ.WebApi.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\test\WXKJ.WebApi\WXKJ.Framework\bin\Debug\netstandard2.0\WXKJ.Framework.deps.json
+D:\test\WXKJ.WebApi\WXKJ.Framework\bin\Debug\netstandard2.0\WXKJ.Framework.dll
+D:\test\WXKJ.WebApi\WXKJ.Framework\bin\Debug\netstandard2.0\WXKJ.Framework.pdb
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.csproj.CoreCompileInputs.cache
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.AssemblyInfoInputs.cache
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.AssemblyInfo.cs
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.dll
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.pdb
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.csproj.CopyComplete
+D:\test\WXKJ.WebApi\WXKJ.Framework\bin\Debug\netstandard2.0\Microsoft.IdentityModel.Tokens.dll
+D:\test\WXKJ.WebApi\WXKJ.Framework\bin\Debug\netstandard2.0\Microsoft.IdentityModel.Tokens.xml
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.Common.LibraryResource.resources
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.Common.R.resources
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.csproj.GenerateResource.cache
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.Logs.Properties.LogResource.resources
+D:\test\WXKJ.WebApi\WXKJ.Framework\obj\Debug\netstandard2.0\WXKJ.Framework.csprojAssemblyReference.cache
